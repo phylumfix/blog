@@ -28,7 +28,7 @@ twitter_username: phylumfix
 github_username:  phylumfix
 
 # Build settings
-theme: samarsault/plainwhite-jekyll
+remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
