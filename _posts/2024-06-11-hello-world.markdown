@@ -22,5 +22,4 @@ Cheers!
 
 -PF
 
-Find me on [Twitter/X][twitter] if you want.
-[twitter]: https://x.com/phylumfix
+Find me on [Twitter/X](https://x.com/phylumfix) if you want.
